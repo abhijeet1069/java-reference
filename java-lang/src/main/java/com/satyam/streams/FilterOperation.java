@@ -1,4 +1,4 @@
-package com.satyam.streamApi;
+package com.satyam.streams;
 
 import java.util.List;
 

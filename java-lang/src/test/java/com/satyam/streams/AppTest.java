@@ -1,4 +1,4 @@
-package com.satyam.streamApi;
+package com.satyam.streams;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
